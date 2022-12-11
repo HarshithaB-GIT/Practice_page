@@ -1,0 +1,14 @@
+body {
+  background-color:lightcoral;   
+  border-style: double;
+  border-width: 10px;
+  border-color: aqua;
+  }
+
+  button {
+    border-radius: 15px;
+    background-color: aqua;
+    padding: 7px;
+  }
+
+  
